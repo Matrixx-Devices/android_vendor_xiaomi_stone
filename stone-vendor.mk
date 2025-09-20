@@ -528,6 +528,7 @@ PRODUCT_PACKAGES += \
     libqrtr \
     libthermalclient \
     libxml \
+    libmisoundfx \
     vendor.qti.hardware.vpp@1.1 \
     vendor.qti.hardware.vpp@1.2 \
     vendor.qti.hardware.vpp@1.3 \
